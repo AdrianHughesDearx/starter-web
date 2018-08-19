@@ -4,7 +4,9 @@
 
 This is to explore merginf and comparing
 
-This repository is for showing how Git and GitHub work
+## Explaination
+
+this is to show off different parts of git compare
 
 ## Purpose
 
