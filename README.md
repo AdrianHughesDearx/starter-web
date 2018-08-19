@@ -4,6 +4,7 @@
 
 This is to explore merginf and comparing.
 this entire doc is to test git.
+More changes from my feature branch too
 
 ## Explaination
 
