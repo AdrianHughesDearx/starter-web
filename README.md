@@ -10,4 +10,4 @@ this is to show off different parts of git compare
 
 ## Purpose
 
-Sample website with plenty of files for demos
+I guess to compare more commits
