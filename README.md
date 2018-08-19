@@ -2,7 +2,8 @@
 
 ## Introduction
 
-This is to explore merginf and comparing
+This is to explore merginf and comparing.
+this entire doc is to test git.
 
 ## Explaination
 
